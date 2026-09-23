@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PhilHealth EPRS Basic Salary Update Automation
-// @namespace    local.philhealth.eprs
+// @namespace    https://conneqly.com/
 // @author       macoymejia.com
 // @version      0.5.0
 // @description  Dry-run, update, and verify active-member salary changes from CSV.
